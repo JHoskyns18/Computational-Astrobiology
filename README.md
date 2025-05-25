@@ -10,9 +10,12 @@ This module explores the principles and techniques of Machine Learning, applying
 - Support vector machines
 - Decision Trees
 - Random Forests
-- Principal Component Analysis (Only unsupervised example)
-- K nearest neighbours using K-fold Cross Validation
+- Probabilistic Random Forest
+- Principal Component Analysis
+- K nearest neighbours
+- K-fold Cross Validation
 - Feed forward Neural Networks
+- Convolutional Neural Networks
 - Transformers
 
 ## Project: Detecting Technosignatures with SOMs & Doppler Drift Search
