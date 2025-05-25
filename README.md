@@ -15,7 +15,7 @@ This module explores the principles and techniques of Machine Learning, applying
 - Feed forward Neural Networks
 - Transformers
 
-## Project Title: Detecting Technosignatures with SOMs & Doppler Drift Search
+## Project: Detecting Technosignatures with SOMs & Doppler Drift Search
 
 This project focuses on analyzing real Breakthrough Listen (BL) radio astronomy data, using Self-Organizing Maps (SOMs) for signal clustering and TurboSETI for Doppler drift detection. The goal is to precluster signals, extract anomalies, and search for potential technosignatures.
 
